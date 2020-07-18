@@ -21,8 +21,8 @@ public class App
     	
     	System.out.println();
     	
-    	//System.out.println("Scholia optimized website performance");
-    	//testScholia("http://85.214.42.229:8100/organization/Q1269766", "result");
+    	System.out.println("Scholia optimized website performance");
+    	testScholia("http://85.214.42.229:8100/organization/Q1269766", "result");
         
     }
     
