@@ -28,7 +28,7 @@ public class App
     
     public static void testScholia(String baseUrl, String id){
     	
-    	System.setProperty("webdriver.chrome.driver", "driver\\chromedriver.exe");
+    	System.setProperty("webdriver.chrome.driver", "driver\\chromedriver87.exe");
         WebDriver driver = new ChromeDriver();
                 
         List<Long> results = new ArrayList<Long>();
